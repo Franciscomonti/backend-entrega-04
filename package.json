@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.0.0"
+  },
+  "name": "desafio-04",
+  "version": "1.0.0",
+  "description": "desafio 04 coder monti francisco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Monti",
+  "license": "ISC"
+}
